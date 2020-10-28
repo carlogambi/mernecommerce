@@ -4,6 +4,9 @@
   "description": "ecommerce made with mern stack",
   "main": "backend/server.js",
   "type": "module",
+  "engines": {
+    "node": "14.13.1"
+  },
   "scripts": {
     "test": "test",
     "start": "node backend/server",
