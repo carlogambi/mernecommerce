@@ -12,9 +12,8 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "data:import": "node backend/seeder.js",
     "data:destroy": "node backend/seeder -d",
-    "test:GoogleApi": "node backend/googleApiTest",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false"
-  },
+    "test:GoogleApi": "node backend/googleApiTest"
+    },
   "author": "",
   "license": "ISC",
   "dependencies": {
