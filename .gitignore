@@ -3,6 +3,7 @@
 #custom
 # frontend/src
 frontend/node_modules
+frontend/src
 frontend/package-lock.json
 frontend/package.json
 DELETE_ME.js
