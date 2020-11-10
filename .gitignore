@@ -5,6 +5,7 @@ frontend/src
 frontend/node_modules
 frontend/package-lock.json
 frontend/package.json
+DELETE_ME.js
 
 # dependencies
 node_modules
